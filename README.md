@@ -3,4 +3,4 @@
 
 
 
-En el siguiente repositorio es el primero que realice en GitHub, Gracias.
+En el siguiente repositorio, tiene el primer que realice en GitHub, Gracias.
